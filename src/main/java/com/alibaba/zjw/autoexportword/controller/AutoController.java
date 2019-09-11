@@ -13,7 +13,7 @@ public class AutoController {
     @GetMapping("/start")
     public void start(){
         //load excel
-
+        System.out.println("修改");
     }
 
 }
